@@ -11,7 +11,7 @@ class Main {
 	public static void main(String[] args) throws IOException {
 
 		// Version
-		System.out.println("\033[34;1mSimpleScript X (Java) v1.0.2a");
+		System.out.println("\033[34;1mSimpleScript X (Java) v1.0.4a");
 
 		// Line
 		int line = 0;
